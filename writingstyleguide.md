@@ -159,6 +159,8 @@ sign-in (n., adj.), sign in (v.) Sign in – Use sign in sign-in when referring 
 
 **Status Card** – capitalize [define this term]
 
+**SHIELD and SHIELD CU** Use all-caps for SHIELD and refer to the Champaign-Urbana partnership as SHIELD CU.
+
 ## Guidelines for Writing
 
 * Avoid the use of exclamation marks.
