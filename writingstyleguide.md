@@ -159,7 +159,9 @@ sign-in (n., adj.), sign in (v.) Sign in – Use sign in sign-in when referring 
 
 **Status Card** – capitalize [define this term]
 
-**SHIELD and SHIELD CU** Use all-caps for SHIELD and refer to the Champaign-Urbana partnership as SHIELD CU.
+**SHIELD and SHIELD CU** – Use all-caps for SHIELD and refer to the Champaign-Urbana partnership as SHIELD CU.
+
+**Switch vs Toggle** – Use "switch" to refer to the skeuomorph that changes a setting from one state to another. Do not use "toggle" as a noun. 
 
 ## Guidelines for Writing
 
