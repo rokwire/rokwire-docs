@@ -1,53 +1,10 @@
-
-
-
-
-# this is a huge header #
-## this is a smaller header ##
-### this is even smaller ###
-#### more small ####
-##### even smaller #####
-###### smallest still: `<h6>` header
-
 # Writing Style Guide
-	
-### TERMS 
-
-    Let's borrow formatting and rules from Apple Style Guides where applicable.
-    * Apple: https://help.apple.com/applestyleguide/?fbclid=IwAR0OlHl0mvq0Omz6rpKRVMoQ5675F8QkTqaR7MgqyofeRFUeX_Gnec9s2aU#/apsg72b28652
-    * Human Interface Guidelines https://developer.apple.com/design/human-interface-guidelines/
-
-    Below is an example of how they format elements such as *definition*, _usage example_, _"don't use" rules_, _correct/incorrect examples_. Note also that italic and not quotation marks is used to refer to the word as a word. (<- rephrase this)
-
-**Mac Catalyst** A feature of Xcode that developers can use to bring iPad apps to Mac as native Mac apps. Don’t use *Catalyst* alone. Developers bring apps to *Mac*, not to *macOS*.
-
-> Bring your iPad app to Mac with Mac Catalyst.
-
-Don’t use *Mac Catalyst* as an adjective. For example, don’t describe an app as a *Mac Catalyst* app; say a *Mac app created using Mac Catalyst*, or similar. Apps don’t *run in* Mac Catalyst; apps are *built with* Mac Catalyst.
-
-> *Correct:* Mac apps built with Mac Catalyst can use AppKit APIs marked as available.
-
-> *Incorrect:* Mac apps running in Mac Catalyst can use AppKit APIs marked as available.
-
-**Style for User Guides**
-
-Each user guide can have its own style conventions. But there should be some consistency so that writers don't get confused.
-
-The followign example could be a guide for conventions to use in user guides. Note: this is not from Apple.
-* Use italic and > chains for "go to" menu sequences.
-* boldface button names
-
-    6. Once you’ve connected to your HubSpot account, you can configure the forms, pop-up forms, and live chat features.
-    
-    * **Forms & Pop-up Forms:** In your WordPress dashboard, go to *HubSpot > Forms* and click the **Create form** button (as shown in the image below) to create a form or a pop-up form. Or in your HubSpot account, go to *Marketing > Lead Capture > Forms* to create your form or pop-up form.
-
 _________________________________________________________________________________________________________
 
 
 **TERMS**
 
 **Capability** (See Rokwire Taxonomy - contrast w/ "features")
-
 
 **Rokwire** is an open-source software platform for building a variety of mobile services based on easily connected data streams. The Illinois app and Safer Illinois are two mobile products built on the Rokwire platform.
 
@@ -76,7 +33,7 @@ _AVOID:_ Don’t call the Illinois App “Rokwire”.
 **Safer Illinois**
 _AVOID:_ Safer in Illinois. Covid App.
 
-NetID - Note Capitalization. NetID is an identity credential assigned to students, faculty, staff
+**NetID** - Note Capitalization. NetID is an identity credential assigned to students, faculty, staff
 and certain other affiliated registered individuals at the University of Illinois. The NetID is recognized on all
 University of Illinois campuses. With the associated password, the NetID is the login to most
 University computing and networking services
@@ -86,32 +43,15 @@ University computing and networking services
 **Counseling Center**
 **Bluetooth** Always capitalize.
 
-.....
-login and related. (Some parts based on Apple Style Guide)
+**Sign in** – Use sign in and sign-in when referring to the verb and noun that describe entering your credentials and securely entering the app. The hyphen should be used only when referring to the noun. Do not use “log in” or any of its variants. Separate the prepositions. Use "sign in to", not "sign into".
 
-* login (n., adj.), log in (v.)
+>Correct: You must sign in using your NetID.
 
-Use to refer to the procedure for authenticating a NetID. Don't use within apps; use _sign in_ instead.
+>Incorrect: You must sign into the single sign on place.
 
-log in to , not log into.
+>Sample Sentence: I signed in to the Safer Illinois app using my sign-in credentials. 
 
-Correct: You must log in using your NetID.
-
-Incorrect: You must log into the single sign on place.[Note: let's add an entry for SSO and single-sign on. With a note to avoid using the acronym SSO, because people don't know what it means.]
-
-More usage: Users log in to a file server (not log on to ); users log out of a file server (not log off , log off of , or log out from ).
-
-Correct: You must log out of the server.
-
-Incorrect: You must log out from the server.
-
-Incorrect: You must log off the server.
-
-Use _login dialog_ box to refer to Shibboleth single-sign on interface. [I think?]
-
-Don't use log on, log off; use log in and log out.
-
-See also sign-in (n., adj.), sign in (v.).
+[//]: <Note: Let's add an entry for SSO and single-sign on. With a note to avoid using the acronym SSO, because people don't know what it means.>
 
 **Period** See End Punctuation.
 
