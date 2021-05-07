@@ -52,9 +52,16 @@ ________________________________________________________________________________
 **Rokwire** is an open-source software platform for building a variety of mobile services based on easily connected data streams. The Illinois app and Safer Illinois are two mobile products built on the Rokwire platform.
 
 Possible uses: *Rokwire Initiative* and *Rokwire Platform* and *Rokwire Community*\
-Question: Try not to use Rokwire by itself, but as a modifier ??
+Question: Try not to use Rokwire by itself, but as a modifier ?? Or, when used by itself Rokwire refers to the software platform; when describing an organization or work project, Rokwire can be used as an adjective: Rokwire initiative, Rokwire project. 
 
-look at Bill's profile, rokwire website, get a bigger picture
+Multiple organizations are associated with the Rokwire project.
+
+University of Illinois
+- Smart, Health Communities Initiative
+- Technology Services has administrative responsibility for operations of the Rokwire "Illinois Instance" at UIUC. 
+- The Illinois Instance
+- The Illinois App Steering Committee has decision making authority over the Rokwire Capabilities that are selected to be deployed in the Illinois app.
+
 
 Incorrect spellings: Rockwire. RokWire. Don’t refer to the _Illinois_ app or the _Safer Illinois_ app as *Rokwire*.
 
