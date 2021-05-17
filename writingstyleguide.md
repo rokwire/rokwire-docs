@@ -1,17 +1,43 @@
 # Writing Style Guide
-_________________________________________________________________________________________________________
+
+## GLOSSARY
+A list of terms or titles found in or relating to the Smart, Healthy Communities Initiative.
 
 
-**TERMS**
+## Titles
 
-**Capability** (See Rokwire Taxonomy - contrast w/ "features")
+**Illinois** 
+: The _Illinois_ app is a mobile application that incorporates a set of information
+services focused on life at University of Illinois. The app includes features about
+campus events, Illini sports and a number of resources for students including dining
+information and laundry services.
 
-**Rokwire** is an open-source software platform for building a variety of mobile services based on easily connected data streams. The Illinois app and Safer Illinois are two mobile products built on the Rokwire platform.
+>Possible Uses: **the Illinois app** 
+>Do not refer to the Illinois App as **Rokwire**. 
+>Avoid: Referring to the app as **Illinois** alone. 
 
-Possible uses: *Rokwire Initiative* and *Rokwire Platform* and *Rokwire Community*\
-Question: Try not to use Rokwire by itself, but as a modifier ?? Or, when used by itself Rokwire refers to the software platform; when describing an organization or work project, Rokwire can be used as an adjective: Rokwire initiative, Rokwire project. 
+[//]: <Question: Can we say "Illinois app" without "the", "Illinois" without "app"? Or should it always be styled "the Illinois app"?>
 
-Multiple organizations are associated with the Rokwire project.
+**Rokwire** 
+: an open-source software platform for building a variety of mobile services based on easily connected data streams. The Illinois app and Safer Illinois are two mobile products built on the Rokwire platform. Multiple organizations are associated with the Rokwire project.
+
+>Possible Uses: *Rokwire Initiative* and *Rokwire Platform* and *Rokwire Community*
+
+>Avoid: Using Rokwire as a noun by itself unless when referring specifically to the software platform.
+
+>Avoid: Using Rokwire to describe an organization or work project.
+
+>Incorrect Spellings: Rockwire. RokWire. Do not refer to the _Illinois_ app or the _Safer Illinois_ app as *Rokwire*.
+
+**OSF HealthCare** 
+: A healthcare organization. 
+>Note capitalization. This is the style requested by OSF.
+
+**McKinley Health**
+: Illinois healthcare organization
+
+**Counseling Center**
+: Illinois counseling organization
 
 University of Illinois
 - Smart, Health Communities Initiative
@@ -20,27 +46,20 @@ University of Illinois
 - The Illinois App Steering Committee has decision making authority over the Rokwire Capabilities that are selected to be deployed in the Illinois app.
 
 
-Incorrect spellings: Rockwire. RokWire. Don’t refer to the _Illinois_ app or the _Safer Illinois_ app as *Rokwire*.
-
-**Illinois** The _Illinois_ app is a mobile app that incorporates a set of information
-services focused on life at University of Illinois. The app includes features about
-campus events, Illini sports and a number of resources for students including dining
-information and laundry services.
-
-_AVOID:_ Don’t call the Illinois App “Rokwire”. 
-*Questions:* Can we say "Illinois app" without "the", "Illinois" without "app"? Or should it always be styled "the Illinois app"?
-
 **Safer Illinois**
-_AVOID:_ Safer in Illinois. Covid App.
+: A mobile application built on the Rokwire platform  to support the University of Illinois campus communities during the COVID-19 pandemic.
+>Incorrect: Safer in Illinois. COVID app. Rokwire app.
+
+## Application Terms
+
+**Capability** (See Rokwire Taxonomy - contrast w/ "features")
 
 **NetID** - Note Capitalization. NetID is an identity credential assigned to students, faculty, staff
 and certain other affiliated registered individuals at the University of Illinois. The NetID is recognized on all
 University of Illinois campuses. With the associated password, the NetID is the login to most
 University computing and networking services
 
-**OSF HealthCare** Note capitalization. This is the style requested by OSF.
-**McKinley Health**
-**Counseling Center**
+
 **Bluetooth** Always capitalize.
 
 **Sign in** – Use sign in and sign-in when referring to the verb and noun that describe entering your credentials and securely entering the app. The hyphen should be used only when referring to the noun. Do not use “log in” or any of its variants. Separate the prepositions. Use "sign in to", not "sign into".
@@ -52,32 +71,6 @@ University computing and networking services
 >Sample Sentence: I signed in to the Safer Illinois app using my sign-in credentials. 
 
 [//]: <Note: Let's add an entry for SSO and single-sign on. With a note to avoid using the acronym SSO, because people don't know what it means.>
-
-**Period** See End Punctuation.
-
-**End Punctuation** All image captions and callouts should end in a period, even when the callout is an incomplete sentence (for consistency). Don’t use end punctuation in headlines, headings, subheadings, UI titles, UI text, or simple lists (three or fewer words per item). 
-
- **Questions:**
-
- * When should statements in text screens end with a period? Any time they are a
- complete sentence?
- * An inline heading could have end punctuation.
-
- **Example.** This is an example of a paragraph with an inline heading.
-
-## Capitalization in App Screens
-
-Each App can have its own style rules for text. On the precedent of our current practices in Illinois and Safer Illinois apps, we have derived the following guidelines.
-
-* Buttons use title case.
-* Screen Titles use title case.
-* Commands in screens use sentence case.
-* Section headings in screens use sentence case.
-* Drop-down menus use title case.
-
-Give examples.
-
-## Illinois and Safer Illinois Style Guide
 
 **Exposure Notification and Exposure Notification system** – Capitalize Exposure Notification as a proper noun when referring to the feature. Do not capitalize “system”. Use lower case when referring to the notification message itself.  
 
@@ -103,11 +96,36 @@ sign-in (n., adj.), sign in (v.) Sign in – Use sign in sign-in when referring 
 
 **Switch vs Toggle** – Use "switch" to refer to the skeuomorph that changes a setting from one state to another. Do not use "toggle" as a noun. 
 
-## Guidelines for Writing
+## WRITING STYLE GUIDELINES
 
 * Avoid the use of exclamation marks.
 * Whenever possible, image captions and callouts should be complete sentences. 
 * Write in a conversational style. Use short, simple sentences. Divide complex sentences. Sentence fragments can be OK.
+
+**Period** See End Punctuation.
+
+**End Punctuation** All image captions and callouts should end in a period, even when the callout is an incomplete sentence (for consistency). Don’t use end punctuation in headlines, headings, subheadings, UI titles, UI text, or simple lists (three or fewer words per item). 
+
+ **Questions:**
+
+ * When should statements in text screens end with a period? Any time they are a
+ complete sentence?
+ * An inline heading could have end punctuation.
+
+ **Example.** This is an example of a paragraph with an inline heading.
+
+## Capitalization in App Screens
+
+Each App can have its own style rules for text. On the precedent of our current practices in Illinois and Safer Illinois apps, we have derived the following guidelines.
+
+* Buttons use title case.
+* Screen Titles use title case.
+* Commands in screens use sentence case.
+* Section headings in screens use sentence case.
+* Drop-down menus use title case.
+
+Give examples.
+
 
 ## Accessibility
 To facilitate screen readers, observe the following guidelines.
