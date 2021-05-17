@@ -52,43 +52,48 @@ University of Illinois
 
 ## Application Terms
 
+**Bluetooth** Always capitalize.
+
 **Capability** (See Rokwire Taxonomy - contrast w/ "features")
 
-**NetID** - Note Capitalization. NetID is an identity credential assigned to students, faculty, staff
+**COVID-19 Private Key**
+: The secret QR Code that is used to retrieve information such as test results, settings, and patient information when history is deleted from the app. This QR code must be saved to the device’s photo gallery during initial setup. This QR code is not to be confused with the **Status Card QR Code**. 
+
+**Exposure Notification and Exposure Notification system** – Capitalize Exposure Notification as a proper noun when referring to the feature. Do not capitalize “system”. Use lower case when referring to the notification message itself.  
+>Sample Sentence: I just received an exposure notification from the Exposure Notification system.
+
+**Data**
+: Always use the plural form. 
+>Sample Sentence: The data are indicative of a trend. 
+
+**i-card**
+: Use this word specifically to describe the physical University of Illinois identification card. UIN refers only to the student identification number. Do not capitalize any part of this word, and always include a hyphen.  
+>Incorrect: iCard, i-Card
+
+**NetID** 
+: Note Capitalization. NetID is an identity credential assigned to students, faculty, staff
 and certain other affiliated registered individuals at the University of Illinois. The NetID is recognized on all
 University of Illinois campuses. With the associated password, the NetID is the login to most
 University computing and networking services
 
+**Non-University member** 
+: Capitalize both N and U. Hyphenate. (double-check w style guides) 
 
-**Bluetooth** Always capitalize.
+**Privacy Statement, Privacy Notice, Privacy Agreement** 
+: **Privacy Statement** is used in the app, **Privacy Notice** is used in privacy agreement to describe the Mobile Privacy Notice (MPN), an agreement made between the organization and the end user regarding the collection and storage of information exchanged through the use of the app. 
 
-**Sign in** – Use sign in and sign-in when referring to the verb and noun that describe entering your credentials and securely entering the app. The hyphen should be used only when referring to the noun. Do not use “log in” or any of its variants. Separate the prepositions. Use "sign in to", not "sign into".
+**QR code** 
+: The Quick Response or QR code is an encrypted key that can be scanned and points to information about the item to which it is attached. Use QR code to refer to the readable code itself, not to the information linked to it. Capitalize both letters, but do not capitalize "code"
+
+**Sign-in (n., adj.) and sign in (v.)** – Use sign in and sign-in when referring to the verb and noun that describe entering your credentials and securely entering the app. The hyphen should be used only when referring to the noun. Do not use “log in” or any of its variants. Separate the prepositions. Use "sign in to", not "sign into".
 
 >Correct: You must sign in using your NetID.
 
->Incorrect: You must sign into the single sign on place.
+>Incorrect: You must sign into the Safer Illinois app.
 
 >Sample Sentence: I signed in to the Safer Illinois app using my sign-in credentials. 
 
 [//]: <Note: Let's add an entry for SSO and single-sign on. With a note to avoid using the acronym SSO, because people don't know what it means.>
-
-**Exposure Notification and Exposure Notification system** – Capitalize Exposure Notification as a proper noun when referring to the feature. Do not capitalize “system”. Use lower case when referring to the notification message itself.  
-
- I just received an exposure notification from the Exposure Notification system.
-
-sign-in (n., adj.), sign in (v.) Sign in – Use sign in sign-in when referring to the verb and noun that describes entering your credentials to authenticate your user identity in the app. The hyphen should be used only when referring to the noun. Do not use *log in* or any of its variants in relation to use of the app.  
-
-> I signed in to the Safer Illinois app using my sign-in credentials.  
-
-**QR code** (Quick Response) Encrypted key, secret key, qr code, etc. Need consistent wording 
-
-**Privacy Statement** (used in app), Privacy Notice (used in privacy agreement), Privacy Agreement (not used, but should be?) Make consistent. The official full name is Mobile Privacy Notice (MPN).
-
-**Non-University member.** Capitalize both N and U. Hyphenate. (double-check w style guides) 
-
-**i-card** – Use this word specifically to describe the physical University of Illinois identification card. UIN refers only to the student identification number. Do not capitalize any part of this word, and always include a hyphen.  
-
-> Incorrect: iCard, i-Card
 
 **Status Card** – capitalize [define this term]
 
