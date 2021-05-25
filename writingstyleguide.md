@@ -52,14 +52,17 @@ University of Illinois
 
 ## Application Terms
 
-**Bluetooth** Always capitalize.
+**Bluetooth** 
+: Always capitalize.
 
-**Capability** (See Rokwire Taxonomy - contrast w/ "features")
+**Capability** 
+: (See Rokwire Taxonomy - contrast w/ "features")
 
 **COVID-19 Private Key**
 : The secret QR Code that is used to retrieve information such as test results, settings, and patient information when history is deleted from the app. This QR code must be saved to the device’s photo gallery during initial setup. This QR code is not to be confused with the **Status Card QR Code**. 
 
-**Exposure Notification and Exposure Notification system** – Capitalize Exposure Notification as a proper noun when referring to the feature. Do not capitalize “system”. Use lower case when referring to the notification message itself.  
+**Exposure Notification and Exposure Notification system**
+: Capitalize Exposure Notification as a proper noun when referring to the feature. Do not capitalize “system”. Use lower case when referring to the notification message itself.  
 >Sample Sentence: I just received an exposure notification from the Exposure Notification system.
 
 **Data**
@@ -85,7 +88,8 @@ University computing and networking services
 **QR code** 
 : The Quick Response or QR code is an encrypted key that can be scanned and points to information about the item to which it is attached. Use QR code to refer to the readable code itself, not to the information linked to it. Capitalize both letters, but do not capitalize "code"
 
-**Sign-in (n., adj.) and sign in (v.)** – Use sign in and sign-in when referring to the verb and noun that describe entering your credentials and securely entering the app. The hyphen should be used only when referring to the noun. Do not use “log in” or any of its variants. Separate the prepositions. Use "sign in to", not "sign into".
+**Sign-in (n., adj.) and sign in (v.)**
+: Use sign in and sign-in when referring to the verb and noun that describe entering your credentials and securely entering the app. The hyphen should be used only when referring to the noun. Do not use “log in” or any of its variants. Separate the prepositions. Use "sign in to", not "sign into".
 
 >Correct: You must sign in using your NetID.
 
@@ -95,11 +99,14 @@ University computing and networking services
 
 [//]: <Note: Let's add an entry for SSO and single-sign on. With a note to avoid using the acronym SSO, because people don't know what it means.>
 
-**Status Card** – capitalize [define this term]
+**Status Card** 
+: Capitalize [define this term]
 
-**SHIELD and SHIELD CU** – Use all-caps for SHIELD and refer to the Champaign-Urbana partnership as SHIELD CU.
+**SHIELD and SHIELD CU** 
+: Use all-caps for SHIELD and refer to the Champaign-Urbana partnership as SHIELD CU.
 
-**Switch vs Toggle** – Use "switch" to refer to the skeuomorph that changes a setting from one state to another. Do not use "toggle" as a noun. 
+**Switch vs Toggle** 
+: Use "switch" to refer to the skeuomorph that changes a setting from one state to another. Do not use "toggle" as a noun. 
 
 ## WRITING STYLE GUIDELINES
 
