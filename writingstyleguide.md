@@ -108,6 +108,11 @@ University computing and networking services
 **Switch vs Toggle** 
 : Use "switch" to refer to the skeuomorph that changes a setting from one state to another. Do not use "toggle" as a noun. 
 
+**Wi-Fi**
+: Include the hyphen and stylize in camel case. 
+
+>Incorrect: Wi-fi, wi-fi, wifi, Wifi, WIFI, wireless fidelity
+
 ## WRITING STYLE GUIDELINES
 
 * Avoid the use of exclamation marks.
