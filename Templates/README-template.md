@@ -12,9 +12,9 @@ Title or Project Repo Name at top level.
 Contributor list, contact info, and other information
 | Contributor Name           |  Contact Information          |  Github handle, social media |  Notes                              |
 |----------------------------|-------------------------------|------------------------------|-------------------------------------|
-|                            |                               |                              |                                     |
-|                            |                               |                              |                                     |
-|                            |                               |                              |                                     |
+|             x,y            |                               |                              |                                     |
+|             m,n            |                               |                              |                                     |
+|             a,b            |                               |                              |                                     |
 
      Fill in table cells with information as defined in the header. 
 
@@ -23,7 +23,13 @@ Contributor list, contact info, and other information
 ### How to get started 
 Short description of what this document will cover. A linked index list can be placed here, with headings for each section.
 
-### How to install or execute file or larger program
+[How to install or execute file or larger program](#How-to-install-execute-file-or-use-this-documentation)  
+[Technical Support and Assistance](#Technical-Support-and-Assistance)   
+[Version History](#Version-History)    
+[Licensing and Attribution](#Licensing-and-Attribution)    
+[Acknowledgments](#Acknowledgments)
+
+### How to install, execute file, or use this documentation
 Links to tutorials and/or instruction files.
 
 ### Installation, execution, and dependency instructions enumerated here
