@@ -41,17 +41,17 @@ Links to tutorials and/or instruction files.
 
 ## Version History
 
-* 1.0
-  * description of version, changes from previous version
-  * version date
+* 1.0   
+  * description of version, changes from previous version  
+  * version date  
 
-  * 1.1 
-    * description of version, changes from previous version
-    * version date
+    * 1.1   
+      * description of version, changes from previous version   
+      * version date   
 
-* 2.0
-  * description of version, changes from previous version
-  * version date
+* 2.0  
+  * description of version, changes from previous version  
+  * version date  
 
 ## Licensing and Attribution
 Software artifacts are licensed under the [Apache 2.0](https://github.com/rokwire/rokwire-community/wiki/Apache-license) license. Standalone 
