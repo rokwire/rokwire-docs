@@ -23,7 +23,7 @@ Contributor list, contact info, and other information
 ### How to get started 
 Short description of what this document will cover. A linked index list can be placed here, with headings for each section.
 
-[Authors](Authors)
+[Authors](#Authors)   
 [How to install or execute file or larger program](#How-to-install-execute-file-or-use-this-documentation)  
 [Technical Support and Assistance](#Technical-Support-and-Assistance)   
 [Version History](#Version-History)    
