@@ -1,8 +1,9 @@
 # Rokwire README Template
+Follow these README guidelines for describing contributions to the [Rokwire platform](https://rokwire.org) 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-# Document Title (or Title of Associated Project Repo)
-Follow these README guidelines for describing contributions to the [Rokwire platform](https://rokwire.org) 
+# Document Title 
+Title or Project Repo Name at top level.
 
 ## Authors
 
