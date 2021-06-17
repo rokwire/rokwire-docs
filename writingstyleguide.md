@@ -126,11 +126,9 @@ University computing and networking services
 * Whenever possible, image captions and callouts should be complete sentences. 
 * Write in a conversational style. Use short, simple sentences. Divide complex sentences. Sentence fragments can be OK.
 
-**Abbreviations, Acronyms, and Initialisms** Only abbreviate and use acronyms or initialisms after first providing the full name. 
+**Abbreviations, Acronyms, and Initialisms** Only abbreviate and use acronyms or initialisms after first providing the full name. After the full name is providedm subsequent references can be abbreviated. 
 
->Correct: The campus Virtual Private Network (VPN). *Heretoforth VPN*
-
-**Period** See End Punctuation.
+>Correct: The campus Virtual Private Network (VPN)...
 
 **End Punctuation** All image captions and callouts should end in a period, even when the callout is an incomplete sentence (for consistency). Don’t use end punctuation in headlines, headings, subheadings, UI titles, UI text, or simple lists (three or fewer words per item). 
 
