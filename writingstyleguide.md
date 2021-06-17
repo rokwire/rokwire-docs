@@ -50,6 +50,9 @@ University of Illinois
 : A mobile application built on the Rokwire platform  to support the University of Illinois campus communities during the COVID-19 pandemic.
 >Incorrect: Safer in Illinois. COVID app. Rokwire app.
 
+**Technology Services**
+
+
 ## Application Terms
 
 **Bluetooth** 
@@ -80,7 +83,11 @@ University of Illinois campuses. With the associated password, the NetID is the 
 University computing and networking services
 
 **Non-University member** 
-: Capitalize both N and U. Hyphenate. (double-check w style guides) 
+: Capitalize both N and U. Hyphenate. 
+
+**Open Source**
+: Do not use a hyphen. Lowercase unless you're talking about the Open Source Initiative. Do not use "open-sourced" as an adjective. 
+[//]: <Note: The primary sources confirming this are opensource.org and opensource.com.>
 
 **Privacy Statement, Privacy Notice, Privacy Agreement** 
 : **Privacy Statement** is used in the app, **Privacy Notice** is used in privacy agreement to describe the Mobile Privacy Notice (MPN), an agreement made between the organization and the end user regarding the collection and storage of information exchanged through the use of the app. 
@@ -118,6 +125,10 @@ University computing and networking services
 * Avoid the use of exclamation marks.
 * Whenever possible, image captions and callouts should be complete sentences. 
 * Write in a conversational style. Use short, simple sentences. Divide complex sentences. Sentence fragments can be OK.
+
+**Abbreviations, Acronyms, and Initialisms** Only abbreviate and use acronyms or initialisms after first providing the full name. 
+
+>Correct: The campus Virtual Private Network (VPN). *Heretoforth VPN*
 
 **Period** See End Punctuation.
 
