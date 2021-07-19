@@ -1,23 +1,25 @@
-# Converge Documentation (draft)
+# Converge Engine Documentation
 
 
-**What Is Converge?** Converge is a third-party Rokwire Capability created by a student software developer team in the Alchemy Incubator at the University of Illinois at Urbana-Champaign.
+**What Is the Converge Engine?** The Converge Engine is a third-party Rokwire Capability created by a student software developer team in the [Alchemy Incubator](https://alchemyfoundry.com/) at the University of Illinois at Urbana-Champaign.
 
-**Synopsis:** Converge curates event recommendations within Rokwire by correlating the interests of Rokwire users.
+**Synopsis:** The Converge Engine curates and recommends events stored within Rokwire by correlating the interests of Rokwire users.
 	
-**Description:** Converge is a flexible decision-making engine that helps users find content that best matches their interests. Within the Rokwire platform, the Converge engine provides personalized recommendations for events based on both the explicitly and implicitly indicated interests of the users. Rokwire uses Converge to score and order the results which appear on the events panel of the *Illinois* app, helping community members find events around campus that match their interests, which they might not have otherwise known about. 
+**Description:** The Converge Engine is a flexible decision-making engine that helps users find content that best matches their interests. Within the Rokwire platform, the Converge Engine provides personalized recommendations for events based on both the explicitly and implicitly indicated interests of the users. 
 
-**Building Block Interaction:** Receives data from the following Building Blocks.
+Rokwire uses the Converge Engine to score and order the results that appear on the events panel of the *Illinois* app, helping community members find events around campus that match their interests, which they might not have otherwise known about. 
+
+**Building Block Interaction:** The Converge Engine Receives data from the following Building Blocks.
 - Events
 - Profile
 
-Does Converge send data back to Events? Or directly to the app?
+Does Converge send data back to the Events Building Block? Or directly to the app?
 
 **Fee Basis:** The Converge Capability is available to users of Rokwire at no charge.
 
 **Licensing:** ??
 
-**Developers:** Stephen Hurwit (and others?)
+**Developers:** Stephen Hurwit (and others)
 
 **Website**: [Converge-Engine] (https://www.converge-engine.com/about)
 
