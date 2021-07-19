@@ -1,4 +1,4 @@
-# Converge Engine Documentation
+# Converge Engine Capability
 
 
 **What Is the Converge Engine?** The Converge Engine is a third-party Rokwire Capability created by a student software developer team in the [Alchemy Incubator](https://alchemyfoundry.com/) at the University of Illinois at Urbana-Champaign.
