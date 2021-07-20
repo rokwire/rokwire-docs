@@ -42,3 +42,9 @@ Does Converge send data back to the Events Building Block? Or directly to the ap
 	- what other use cases of Converge are there?
 
 
+
+**References:**
+- https://csl.illinois.edu/news/illinois-ece-tech-start-launches-new-app-simplifies-decision-making
+- https://ece.illinois.edu/newsroom/news/4302
+
+
