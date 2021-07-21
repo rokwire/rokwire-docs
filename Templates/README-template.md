@@ -46,7 +46,8 @@ Links to tutorials and/or instruction files.
 
 ### Technical Support and Assistance
 
-## Version History
+## Version History 
+This can be as detailed or as general as we need for a particular repo. This section should highlight the biggest and most important releases needed for understanding by a general audience. You can link to the [releases tab](https://github.com/rokwire/rokwire-docs/releases) to give people more information on release versions with description. You may also provide a link to the version history for a [specific directory or file](https://github.com/rokwire/rokwire-docs/commits/main/README.md) if necessary.
 
 * 1.0   
   * description of version, changes from previous version  
