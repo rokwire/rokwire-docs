@@ -140,15 +140,19 @@ University computing and networking services
 
  **Example.** This is an example of a paragraph with an inline heading.
 
-## Capitalization in App Screens
+## Capitalization and Punctuation in App Screens
 
 Each App can have its own style rules for text. On the precedent of our current practices in Illinois and Safer Illinois apps, we have derived the following guidelines.
 
 * Buttons use title case.
 * Screen Titles use title case.
 * Commands in screens use sentence case.
-* Section headings in screens use sentence case.
+* Section headings in screens use title case.
 * Drop-down menus use title case.
+* Sentences within the body of a screen use end punctuation. 
+* Sentences in a title do not have end punctuation, unless they are periods.
+* Screen titles that are complete sentences (e.g., “Who are you?”) use sentence case. 
+
 
 Give examples.
 
