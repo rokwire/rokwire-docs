@@ -8,7 +8,7 @@ A list of terms or titles found in or relating to Rokwire and the Smart, Healthy
 
 **Illinois** 
 : The _Illinois_ app is a mobile application that incorporates a set of information
-services focused on life at University of Illinois. The app includes features about
+services focused on life at the University of Illinois. The app includes features about
 campus events, Illini sports and a number of resources for students including dining
 information and laundry services.
 
@@ -40,7 +40,7 @@ information and laundry services.
 : Illinois counseling organization
 
 University of Illinois
-- Smart, Health Communities Initiative
+- Smart, Healthy Communities Initiative
 - Technology Services has administrative responsibility for operations of the Rokwire "Illinois Instance" at UIUC. 
 - The Illinois Instance
 - The Illinois App Steering Committee has decision making authority over the Rokwire Capabilities that are selected to be deployed in the Illinois app.
