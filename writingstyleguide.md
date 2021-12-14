@@ -172,30 +172,31 @@ Who are you?
 
 ![Alt text](/Images/qpoll.png?raw=true "Quick Polls")
 
->_Consistent_
+>_Consistent with Style_
+>
 >**Title:** **Create a Quick Poll** uses title case, which is consistent.
-
->_Inconsistent_
+>
+>_Inconsistent with Style_
+>
 >**Heading:** **Additional settings** uses sentence case, which is inconsistent, and incorrect.
-
+>
 >**Buttons:** **Add option** and **Start poll!** Both use sentence case, which is inconsistent with dominant style and should be changed. (Also, the exclamation mark is unnecessary.)
 
 **Wallet**
 
 ![Alt text](/Images/wallet.png?raw=true "Wallet")
 
->_Consistent_
+>_Consistent with Style_
+>
 >**Title:** **Wallet** uses title case. 
-
 >**Sub-Heading:** **Current Illini Cash Balance** uses title case. 
-
 >**Sub-Heading:** **Meals Remaining** uses title case.
-
 >**Sub-Heading:** **Café Credits** uses title case.
-
->_Inconsistent_
+>
+>_Inconsistent with Style_
+>
 >**Heading:** **ILLINI CASH** and **MEAL PLAN** are styled in all-caps by design choice to help them stand out. They would otherwise be in title case. This is an intentional exception and not an error. 
-
+>
 >**Button:** **Use bus pass** uses sentence case and should be in title case. This is incorrect.
 
 
