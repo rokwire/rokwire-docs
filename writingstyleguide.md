@@ -1,7 +1,7 @@
 # Writing Style Guide
 
 ## GLOSSARY
-A list of terms or titles found in or relating to the Smart, Healthy Communities Initiative.
+A list of terms or titles found in or relating to Rokwire and the Smart, Healthy Communities Initiative.
 
 
 ## Titles
