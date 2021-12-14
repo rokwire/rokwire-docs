@@ -142,7 +142,7 @@ University computing and networking services
 
 ## Capitalization and Punctuation in App Screens
 
-Each App can have its own style rules for text. On the precedent of our current practices in Illinois and Safer Illinois apps, we have derived the following guidelines.
+Each App can have its own style rules for text. In the Illinois app and Safer Illinois app, we have established the following guidelines.
 
 * Buttons use title case.
 * Screen Titles use title case.
@@ -168,7 +168,7 @@ Current Illini cash balance
 Events for you
 Who are you?
 
-**Quick Polls Screen**
+**Example: Quick Polls Screen**
 
 ![Alt text](/Images/qpoll.png?raw=true "Quick Polls")
 
@@ -184,7 +184,7 @@ Who are you?
 >
 >**Buttons:** **Add option** and **Start poll!** Both use sentence case, which is incorrect. (Also, the exclamation mark is unnecessary.)
 
-**Wallet**
+**Example: Wallet Screen**
 
 ![Alt text](/Images/wallet.png?raw=true "Wallet")
 
@@ -253,7 +253,7 @@ guidelines for your county.
 
 * Exposure notification warns of possible contact with infected individuals through anonymous proximity tracing.
 
-**Ideas and phrases used in the Safer Illinoi app.**
+**Ideas and Phrases Used in the Safer Illinois app.**
 
 Join the fight against COVID-19. Track and manage your health to help keep our Illinois
 community safe.
