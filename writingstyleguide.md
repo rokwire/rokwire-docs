@@ -168,7 +168,10 @@ Current Illini cash balance
 Events for you
 Who are you?
 
+**Screens**
+![Alt text](/Images/qpoll.png?raw=true "Quick Polls")
 
+![Alt text](/Images/wallet.png?raw=true "Quick Polls")
 
 
 
