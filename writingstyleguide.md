@@ -156,7 +156,7 @@ Each App can have its own style rules for text. On the precedent of our current 
 
 **Examples of Title and Sentence Case**
 
-Title case means, basically, to capitalize the first letter of major words. Minor words, which are not capitalized, are prepositions (e.g., by, for, in), conjunctions (and, but, or), and articles (a, the). (See Table 2 for illustration.)
+Title case means, basically, to capitalize the first letter of major words. Minor words, which are not capitalized, are prepositions (e.g., by, for, in), conjunctions (and, but, or), and articles (a, the). 
 
 _Title Case_
 Current Illini Cash Balance
@@ -174,13 +174,13 @@ Who are you?
 
 >_Consistent with Style_
 >
->**Title:** **Create a Quick Poll** uses title case, which is consistent.
+>**Title:** **Create a Quick Poll** uses title case, which is correct.
 >
 >_Inconsistent with Style_
 >
->**Heading:** **Additional settings** uses sentence case, which is inconsistent, and incorrect.
+>**Heading:** **Additional settings** uses sentence case, which is incorrect.
 >
->**Buttons:** **Add option** and **Start poll!** Both use sentence case, which is inconsistent with dominant style and should be changed. (Also, the exclamation mark is unnecessary.)
+>**Buttons:** **Add option** and **Start poll!** Both use sentence case, which is incorrect. (Also, the exclamation mark is unnecessary.)
 
 **Wallet**
 
