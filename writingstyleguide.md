@@ -154,7 +154,22 @@ Each App can have its own style rules for text. On the precedent of our current 
 * Screen titles that are complete sentences (e.g., “Who are you?”) use sentence case. 
 
 
-Give examples.
+**Examples of Title and Sentence Case**
+
+Title case means, basically, to capitalize the first letter of major words. Minor words, which are not capitalized, are prepositions (e.g., by, for, in), conjunctions (and, but, or), and articles (a, the). (See Table 2 for illustration.)
+
+_Title Case_
+Current Illini Cash Balance
+Events for You
+Who Are You?
+
+_Sentence Case_
+Current Illini cash balance
+Events for you
+Who are you?
+
+
+
 
 
 ## Accessibility
