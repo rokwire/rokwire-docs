@@ -172,6 +172,8 @@ Who are you?
 
 ![Alt text](/Images/qpoll.png?raw=true "Quick Polls")
 
+>In the Quick Polls screen from the Illinois app, above, some of the text is consistent with our style rules, and some text is inconsistent.
+>
 >_Consistent with Style_
 >
 >**Title:** **Create a Quick Poll** uses title case, which is correct.
@@ -186,6 +188,8 @@ Who are you?
 
 ![Alt text](/Images/wallet.png?raw=true "Wallet")
 
+>>In the Wallet screen from the Illinois app, above, some of the text is consistent with our style rules, and some text is inconsistent.
+>
 >_Consistent with Style_
 >
 >**Title:** **Wallet** uses title case. 
