@@ -1,5 +1,5 @@
 ---
-name: New Wiki content
+name: Reporting Documentation Issues
 about: This form is for submitting new stubs and corrections to existing stubs on the Community Wiki.
 title: "[DATE]: [FEATURE NAME]"
 labels: wiki content
