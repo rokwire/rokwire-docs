@@ -209,7 +209,10 @@ To facilitate screen readers, observe the following guidelines.
 
 * Provide alt text for all images.
 * Embed hyperlinks in a noun or noun phrase rather than displaying the URL in the text.
+* Open embedded links in the same window or tab by default. You mmay choose to default to opening a link in a new tab if a user needs their current browser tab as a launching-off point (as when they viewing a list of products) and return to it later for more things to look at in more detail; if a user needs to view content concurrently in order to complete a task (like the new tab is an instruction set they need to follow to complete a task on the current tab; if opening a new page in the same tab will interrupt a survey or a form with unsaved data.  
+* 
 [please add to this list]
+
 
 ## Concepts
 
