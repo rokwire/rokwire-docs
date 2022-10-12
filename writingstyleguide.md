@@ -19,7 +19,7 @@ information and laundry services.
 [//]: <Question: Can we say "Illinois app" without "the", "Illinois" without "app"? Or should it always be styled "the Illinois app"?>
 
 **Rokwire** 
-: an open-source software platform for building a variety of mobile services based on easily connected data streams. The Illinois app and Safer Illinois are two mobile products built on the Rokwire platform. Multiple organizations are associated with the Rokwire project.
+: an open source software platform for building a variety of mobile services based on easily connected data streams. The Illinois app and Safer Illinois are two mobile products built on the Rokwire platform. Multiple organizations are associated with the Rokwire project.
 
 >Possible Uses: *Rokwire Initiative* and *Rokwire Platform* and *Rokwire Community*
 
@@ -87,7 +87,7 @@ University computing and networking services
 
 **Open Source**
 : Do not use a hyphen. Lowercase unless you're talking about the Open Source Initiative. Do not use "open-sourced" as an adjective. 
-[//]: <Note: The primary sources confirming this are opensource.org and opensource.com.>
+[//]: <Note: The primary sources confirming this are opensource.org, opensource.com, and the Open Source Guide (https://opensource.guide/).>
 
 **Privacy Statement, Privacy Notice, Privacy Agreement** 
 : **Privacy Statement** is used in the app, **Privacy Notice** is used in privacy agreement to describe the Mobile Privacy Notice (MPN), an agreement made between the organization and the end user regarding the collection and storage of information exchanged through the use of the app. 
