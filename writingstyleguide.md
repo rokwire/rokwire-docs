@@ -347,7 +347,7 @@ Operations: Operations is anything supporting an ongoing effort, e.g., business 
 
 Development: Development is the other dimension for Rokwire project.
 
-Smart Healthy Communities Initiative: Not "Community"
+Smart, Healthy Communities Initiative: Not "Community"
 
 Version numbering for documentation: Use semantic versioning. Three digits (Major.Minor.Patch). 
 Work in progress is indicated by a major number of zero (0.1.0) and also by pre-release tags alpha (a) and beata (b) and release candidate (rc). A build sequence might look like this: 0.5, 0.6, 0.7, 0.8, 0.9 → 1.0b1, 1.0b2 (with some fixes), 1.0b3 (with more fixes) → 1.0rc1 (which, if it is stable enough), 1.0rc2 (if more bugs are found) → 1.0.
